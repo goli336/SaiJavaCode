@@ -1,3 +1,3 @@
-<h1> Hello Dear Students !! Welcome to DevOps Project-2 !! </h1>
-<h2> By Mr. Sai from Saidemy </h2>
-<h3> Hi Goli </h3>
+<h1> Hi </h1>
+<h2> Welcome to Devops </h2>
+<h3> From Goli </h3>
